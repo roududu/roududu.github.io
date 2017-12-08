@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-08T14:05:54.000Z</updated>
+  <updated>2017-12-08T15:37:22.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,23 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/12/08/hello-world/"/>
-    <id>http://yoursite.com/2017/12/08/hello-world/</id>
-    <published>2017-12-08T14:05:54.000Z</published>
-    <updated>2017-12-08T14:05:54.000Z</updated>
+    <title>我想做一棵树</title>
+    <link href="http://yoursite.com/2017/12/08/%E6%88%91%E6%83%B3%E5%81%9A%E4%B8%80%E6%A3%B5%E6%A0%91/"/>
+    <id>http://yoursite.com/2017/12/08/我想做一棵树/</id>
+    <published>2017-12-08T15:32:09.000Z</published>
+    <updated>2017-12-08T15:37:22.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>李雨融 | 十一岁</p><p>我想做一棵树</p><p>我学着一棵树的样子</p><p>把脚丫踩进泥巴</p><p>把手臂伸向天空</p><p>哦，我发芽了</p><p>哦，我开花了</p><p>哦，我结果了</p><p>哦……如果</p><p>如果天上打雷了</p><p>我想做一棵</p><p>请假的树</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;李雨融 | 十一岁&lt;/p&gt;
+&lt;p&gt;我想做一棵树&lt;/p&gt;
+&lt;p&gt;我学着一棵树的样子&lt;/p&gt;
+&lt;p&gt;把脚丫踩进泥巴&lt;/p&gt;
+&lt;p&gt;把手臂伸向天空&lt;/p&gt;
+&lt;p&gt;哦，我发芽了&lt;/p&gt;
+&lt;p&gt;哦，我开花了&lt;/p&gt;
+&lt;p&gt;哦，我结果了&lt;/p&gt;
+&lt;p&gt;哦……如果&lt;/p&gt;
+&lt;p&gt;如果天上
       
     
     </summary>
     
+    
+      <category term="孩子们的诗" scheme="http://yoursite.com/tags/%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%9A%84%E8%AF%97/"/>
     
   </entry>
   
