@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-10T02:15:31.000Z</updated>
+  <updated>2017-12-10T02:26:41.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2017/12/10/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/"/>
     <id>http://yoursite.com/2017/12/10/建站记录/</id>
     <published>2017-12-10T01:47:10.000Z</published>
-    <updated>2017-12-10T02:15:31.000Z</updated>
+    <updated>2017-12-10T02:26:41.000Z</updated>
     
-    <content type="html"><![CDATA[<table><thead><tr><th>时间</th><th>说明</th></tr></thead><tbody><tr><td>2017-12-08</td><td>站点初始化，代码托管，域名申请及认证，跑通测试页面。</td></tr><tr><td>2017-12-09</td><td>打赏功能配置，更换默认主题为next，绑定个性域名。</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<table><thead><tr><th>时间</th><th>说明</th></tr></thead><tbody><tr><td>2017-12-08</td><td>站点初始化，代码托管，域名申请及认证，跑通测试页面。</td></tr><tr><td>2017-12-09</td><td>打赏功能配置成功，更换默认主题为next，绑定个性域名。</td></tr><tr><td>2017-12-10</td><td>文章分享功能配置成功。</td></tr></tbody></table>]]></content>
     
     <summary type="html">
     
