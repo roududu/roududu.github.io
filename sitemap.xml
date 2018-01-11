@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/migration_notice.html</loc>
+    
+    <lastmod>2018-01-11T13:33:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/about_Gabe.html</loc>
     
-    <lastmod>2018-01-01T04:33:08.000Z</lastmod>
+    <lastmod>2018-01-01T14:42:30.000Z</lastmod>
     
   </url>
   
@@ -26,13 +33,6 @@
     <loc>http://yoursite.com/pick_mumu.html</loc>
     
     <lastmod>2017-12-30T06:57:43.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/I_want_to_be_a_tree.html</loc>
-    
-    <lastmod>2017-12-30T06:57:41.000Z</lastmod>
     
   </url>
   
